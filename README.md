@@ -3,7 +3,7 @@ With Financial Inclusion, at the heart of Digital revolution in the past decade 
 PhonePe, one of the leading Unified Payments Interfaces in India has penetrated into rural as well as Urban areas. This application gives a picture of the number of transactions, the transacted amount, the number of registered users and their app usage trends from the year 2018 till real time.
 
 The Approach:
-1. The PhonePePulse transaction data is cloned from Git Hub.
+1. The PhonePePulse transaction data is cloned from Git Hub(repository link:!git clone https://github.com/PhonePe/pulse.git) and saved in the local system and used.
 2. The extracted data is refined and stored in MySQL database as six tables.
      1.Aggregate Transactions- Table_Name:'agg_trans'
      2.Aggregate Users- Table_Name:'agg_user'
